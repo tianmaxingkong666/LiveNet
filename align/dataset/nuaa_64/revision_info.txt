@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py dataset/nuaa dataset/nuaa_64 --image_size 64 --margin 8
+--------------------
+tensorflow version: 1.8.0
+--------------------
+git hash: b''
+--------------------
+b''
